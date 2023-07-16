@@ -10,4 +10,6 @@ $ python main.py
 ```
 The trained CARENET model, relevant dictionaries, AUC-ROC plot and individual attention plots are saved in the outputs folder for each fold. 
 
-For queries, contact: awais.ashfaq@regionhalland.se
+For queries, contact: Awais Ashfaq: awais.ashfaq@regionhalland.se
+
+                      Ellen Tolestam: ellen.tolestam-heyman@regionhalland.se
